@@ -62,14 +62,15 @@ const economicalPartners = async () => {
     }
 
     // Creating and appending files
-    try { await fs.writeFile('./partnerData.json', finalData) } catch (err) { console.log(err.message) }
+    console.log('Creating JSON file')
+    try { await fs.writeFile('./Data/partnerData.json', JSON.stringify(finalData)) } catch (err) { console.log(err.message) }
 
     const listOfKeys = async (data) => Object.keys(data);
     let keysList = await listOfKeys(finalData[0])
     let keys = (await listOfKeys(finalData[0])).join(',') + '\n'
 
-    console.log('\nCreating file and writing Keys as column\nAppending rows')
-    try { await fs.writeFile('./partnerData.csv', keys) } catch (err) { console.log(err.message) }
+    console.log('\nCreating CSV file and writing Keys as column\nAppending rows')
+    try { await fs.writeFile('./Data/partnerData.csv', keys) } catch (err) { console.log(err.message) }
 
     for (data of finalData) {
         // console.log("D",data)
@@ -78,7 +79,7 @@ const economicalPartners = async () => {
             // console.log("K",key)
             dataToAppend.push(`"${data[key]}"`)
         }
-        try { await fs.appendFile('./partnerData.csv', dataToAppend.join(',') + '\n') } catch (err) { console.log(err.message) }
+        try { await fs.appendFile('./Data/partnerData.csv', dataToAppend.join(',') + '\n') } catch (err) { console.log(err.message) }
     }
     console.log(`Added ${finalData.length} rows successfully`)
 
