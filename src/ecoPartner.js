@@ -25,10 +25,10 @@ const economicalPartners = async () => {
     for (obj of requiredUrlObj) {
         console.log(obj.country)
         await page.goto(obj.Url, { waitUntil: 'load' })
-        await page.evaluate(async () => {
+        await page.evaluate(async (obj) => {
             const isInfoTableAvailable = !!document.querySelector('table.infobox')
-            console.log('Info Available', isInfoTableAvailable)
-        })
+            console.log('Info Available for:', obj.country, isInfoTableAvailable)
+        }, obj)
     }
 
     await page.close()
