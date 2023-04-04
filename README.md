@@ -18,4 +18,7 @@
 Navigate to the website - https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
 
 Navigate to each country page as shown on the webpage below - 
+![](c:/Users/Ayush%20Mishra/Desktop/GDPTable.png)
 
+Retrieve the Main Export Partners and Main Import Partners as shown on each page (beware of exceptional cases) -
+![](c:/Users/Ayush%20Mishra/Desktop/ImportExportPartners.png)
