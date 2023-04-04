@@ -22,7 +22,7 @@ const economicalPartners = async () => {
     })
 
     console.log('Getting required Import/Export partner data')
-    let finalData = [{'country': 'India', 'import_partners': 'Russia,France', 'export_partners': 'Nepal,Vietnam'}]
+    let finalData = []
     for (obj of requiredUrlObj) {
         // console.log(obj.country)
         await page.goto(obj.Url, { waitUntil: 'load' })
@@ -30,6 +30,7 @@ const economicalPartners = async () => {
             // country, export_partners, import_partners
             let requiredData = {};
             requiredData.country = obj.country;
+            requiredData.wikipedia_page = obj.Url;
             const isInfoTableAvailable = !!document.querySelector('table.infobox')
             // console.log('Info Available for:', obj.country, isInfoTableAvailable)
             if (isInfoTableAvailable) {
@@ -41,10 +42,13 @@ const economicalPartners = async () => {
                     exportPartner.push(partner.innerText ? partner.innerText : '')
                 }
                 for (partner of importPartnerNode) {
-                    importPartner.push(partner.innerText ? push.innerText : '')
+                    importPartner.push(partner.innerText ? partner.innerText : '')
                 }
                 requiredData.export_partners = exportPartner.join(',');
                 requiredData.import_partners = importPartner.join(',');
+            } else {
+                requiredData.import_partners = ''
+                requiredData.export_partners = ''
             }
             return requiredData
             function getElementsByXPath(xpath, parent) {
@@ -57,6 +61,9 @@ const economicalPartners = async () => {
         finalData.push(eachCountryData)
     }
 
+    // Creating and appending files
+    try { await fs.writeFile('./partnerData.json', finalData) } catch (err) { console.log(err.message) }
+
     const listOfKeys = async (data) => Object.keys(data);
     let keysList = await listOfKeys(finalData[0])
     let keys = (await listOfKeys(finalData[0])).join(',') + '\n'
@@ -65,10 +72,10 @@ const economicalPartners = async () => {
     try { await fs.writeFile('./partnerData.csv', keys) } catch (err) { console.log(err.message) }
 
     for (data of finalData) {
-        console.log("D",data)
+        // console.log("D",data)
         let dataToAppend = []
         for (key of keysList) {
-            console.log("K",key)
+            // console.log("K",key)
             dataToAppend.push(`"${data[key]}"`)
         }
         try { await fs.appendFile('./partnerData.csv', dataToAppend.join(',') + '\n') } catch (err) { console.log(err.message) }
