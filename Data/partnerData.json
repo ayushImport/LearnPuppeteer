@@ -1,0 +1,1298 @@
+[
+    {
+        "country": "United States",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_the_United_States",
+        "export_partners": "European Union,Canada,Mexico,China,Japan",
+        "import_partners": "China,European Union,Mexico,Canada,Japan"
+    },
+    {
+        "country": "China",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_China",
+        "import_partners": "",
+        "export_partners": ""
+    },
+    {
+        "country": "Japan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Japan",
+        "export_partners": "China,United States,ASEAN,European Union,South Korea,Saudi Arabia,United Kingdom,Turkey,Australia,India",
+        "import_partners": "China,ASEAN,European Union,United States,United Kingdom,Australia,South Korea,Saudi Arabia,United Arab Emirates,African Union"
+    },
+    {
+        "country": "Germany",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Germany",
+        "export_partners": "United States,China,France,Netherlands,United Kingdom,Poland",
+        "import_partners": "China,Netherlands,Poland,France,Italy,Czechia"
+    },
+    {
+        "country": "India",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_India",
+        "export_partners": "United States,United Arab Emirates,China,Bangladesh,Netherlands",
+        "import_partners": "China,United Arab Emirates,United States,Russia,Saudi Arabia"
+    },
+    {
+        "country": "United Kingdom",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_the_United_Kingdom",
+        "export_partners": "European Union,Germany,Netherlands,France,Ireland,Italy,Belgium,United States,China,Switzerland",
+        "import_partners": "European Union,Germany,Netherlands,France,Spain,Belgium,United States,China,Turkey"
+    },
+    {
+        "country": "France",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_France",
+        "export_partners": "Germany,Spain,Italy,United States,Belgium,United Kingdom",
+        "import_partners": "Germany,Belgium,Netherlands,Italy,Spain,United Kingdom,United States,China"
+    },
+    {
+        "country": "Canada",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Canada",
+        "export_partners": "United States,European Union,China,Japan,Mexico",
+        "import_partners": "United States,China,European Union,Mexico,Japan"
+    },
+    {
+        "country": "Russia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Russia",
+        "export_partners": "EU,UK,China,Belarus,Turkey,South Korea,India",
+        "import_partners": "EU,UK,China,United States,Belarus,Japan"
+    },
+    {
+        "country": "Italy",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Italy",
+        "export_partners": "Germany,France,United States,Switzerland,Spain,United Kingdom",
+        "import_partners": "Germany,France,China,Netherlands,Spain,Belgium"
+    },
+    {
+        "country": "Iran",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Iran",
+        "export_partners": "China,India,South Korea,Turkey,United Arab Emirates,Japan,Russia,Pakistan,Azerbaijan,Armenia",
+        "import_partners": "China,United Arab Emirates,India,Turkey,Brazil,Germany,Russia,Italy,Netherlands,Malaysia"
+    },
+    {
+        "country": "Brazil",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Brazil",
+        "export_partners": "China,United States,Argentina,Netherlands,Chile",
+        "import_partners": "China,United States,Argentina,Germany,India"
+    },
+    {
+        "country": "South Korea",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_South_Korea",
+        "export_partners": "China,ASEAN,United States,European Union,Hong Kong,Japan,Russia,Taiwan",
+        "import_partners": "China,United States,European Union,ASEAN,Japan,Australia,Russia,Saudi Arabia,Taiwan"
+    },
+    {
+        "country": "Australia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Australia",
+        "export_partners": "China,Japan,South Korea,United States,India,New Zealand",
+        "import_partners": "China,United States,Japan,Germany,Thailand,United Kingdom"
+    },
+    {
+        "country": "Mexico",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_Mexico",
+        "export_partners": "United States,Canada,China,Spain,Brazil",
+        "import_partners": "United States,China,Japan,Germany,South Korea"
+    },
+    {
+        "country": "Spain",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_Spain",
+        "export_partners": "France,Germany,Italy,Portugal,United Kingdom,United States",
+        "import_partners": "Germany,France,China,Italy,Netherlands,United Kingdom"
+    },
+    {
+        "country": "Indonesia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Indonesia",
+        "export_partners": "China,ASEAN,United States,European Union,Japan,India,South Korea,Hong Kong",
+        "import_partners": "China,ASEAN,Japan,European Union,South Korea,United States,Australia,India"
+    },
+    {
+        "country": "Saudi Arabia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Saudi_Arabia",
+        "export_partners": "China,India,Japan,South Korea,United States,Singapore,France,United Arab Emirates,Egypt",
+        "import_partners": "China,United Arab Emirates,United States,Germany,Japan,India,United Kingdom,South Korea,Netherlands,Italy"
+    },
+    {
+        "country": "Netherlands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Netherlands",
+        "export_partners": "Germany,Belgium,United Kingdom,France,United States",
+        "import_partners": "Germany,China,Belgium,United States,Russia,United Kingdom"
+    },
+    {
+        "country": "Turkey",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Turkey",
+        "export_partners": "Germany,United Kingdom,United States,Iraq,Italy,France,Spain,Netherlands,Israel,Russia",
+        "import_partners": "Germany,China,Russia,United States,Italy,Iraq,France,Switzerland,United Kingdom,United Arab Emirates"
+    },
+    {
+        "country": "Taiwan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Taiwan",
+        "export_partners": "China,ASEAN,United States,Hong Kong,Japan,European Union",
+        "import_partners": "China,Japan,ASEAN,United States,European Union,South Korea"
+    },
+    {
+        "country": "Switzerland",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Switzerland",
+        "export_partners": "Germany,United States,China,India,France,United Kingdom",
+        "import_partners": "Germany,United States,Italy,United Kingdom,France,China,Belgium"
+    },
+    {
+        "country": "Poland",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Poland",
+        "export_partners": "Germany,Czech Republic,France,United Kingdom,Italy,Netherlands",
+        "import_partners": "Germany,China,Russia,Italy,Netherlands"
+    },
+    {
+        "country": "Argentina",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_Argentina",
+        "export_partners": "Brazil,China,United States,Chile",
+        "import_partners": "Brazil,China,United States,Germany"
+    },
+    {
+        "country": "Sweden",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Sweden",
+        "export_partners": "Germany,Norway,Finland,United States,Denmark,United Kingdom,Netherlands,China",
+        "import_partners": "Germany,Netherlands,Norway,Denmark,United Kingdom,Belgium,Finland,China,France"
+    },
+    {
+        "country": "Belgium",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Belgium",
+        "export_partners": "Germany,France,Netherlands,United Kingdom,Italy,United States",
+        "import_partners": "Netherlands,Germany,France,United States,United Kingdom,Ireland,China"
+    },
+    {
+        "country": "Thailand",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Thailand",
+        "export_partners": ",,,,",
+        "import_partners": ",,,,"
+    },
+    {
+        "country": "Israel",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Israel",
+        "export_partners": "United States,China,United Kingdom",
+        "import_partners": "United States,China,Germany,Switzerland,Turkey"
+    },
+    {
+        "country": "Ireland",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Ireland",
+        "export_partners": "United States,Great Britain,Belgium,Germany,Switzerland,Netherlands,France,China",
+        "import_partners": "Great Britain,United States,France,Germany,China,Netherlands,Italy,Belgium"
+    },
+    {
+        "country": "Norway",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Norway",
+        "export_partners": "United Kingdom,Germany,Netherlands,Sweden,France,Belgium,Denmark,United States",
+        "import_partners": "Sweden,Germany,China,United States,South Korea,Denmark,United Kingdom"
+    },
+    {
+        "country": "Nigeria",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Nigeria",
+        "export_partners": "India,Spain,China,Netherlands,South Africa,France",
+        "import_partners": "China,Netherlands,United States,India,Belgium"
+    },
+    {
+        "country": "United Arab Emirates",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_United_Arab_Emirates",
+        "export_partners": "India,Iran,Japan,China,Oman,Switzerland,South Korea",
+        "import_partners": "China,United States,India"
+    },
+    {
+        "country": "Egypt",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Egypt",
+        "export_partners": "United States,United Arab Emirates,Turkey,Saudi Arabia",
+        "import_partners": "China,Saudi Arabia,United States,Germany"
+    },
+    {
+        "country": "Austria",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Austria",
+        "export_partners": "Germany,United States,Italy,Switzerland,France,Slovakia",
+        "import_partners": "Germany,Italy,Switzerland,Czech Republic,Netherlands"
+    },
+    {
+        "country": "Bangladesh",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Bangladesh",
+        "export_partners": "Germany,United States,United Kingdom,Spain,Poland,France,Netherlands,Italy",
+        "import_partners": "China,India,Singapore,European Union,Hong Kong"
+    },
+    {
+        "country": "Malaysia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Malaysia",
+        "export_partners": "China,Singapore,United States,Japan",
+        "import_partners": "China,Singapore,United States,Japan,Hong Kong"
+    },
+    {
+        "country": "Singapore",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Singapore",
+        "export_partners": "China,Hong Kong,Malaysia,United States,Indonesia",
+        "import_partners": "China,Malaysia,United States,Japan,Taiwan"
+    },
+    {
+        "country": "Vietnam",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Vietnam",
+        "export_partners": "United States,China,European Union,ASEAN,South Korea,Japan",
+        "import_partners": "China,South Korea,ASEAN,Japan,European Union,United States"
+    },
+    {
+        "country": "South Africa",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_South_Africa",
+        "export_partners": "China,United States,Germany,Japan,United Kingdom,Botswana",
+        "import_partners": "China,Germany,United States,India,Saudi Arabia,Japan"
+    },
+    {
+        "country": "Philippines",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Philippines",
+        "export_partners": "ASEAN,United States,China,Japan,Hong Kong,European Union",
+        "import_partners": "ASEAN,China,Japan,South Korea,European Union,United States"
+    },
+    {
+        "country": "Denmark",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Denmark",
+        "export_partners": "Germany,Sweden,United Kingdom,United States,Norway,China",
+        "import_partners": "Germany,Sweden,Netherlands,China,Norway,Poland"
+    },
+    {
+        "country": "Pakistan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_Pakistan",
+        "export_partners": "United States,China,United Kingdom,United Arab Emirates,Germany,Netherlands,Spain,Italy",
+        "import_partners": "China,United Arab Emirates,Saudi Arabia,Singapore,United States,Indonesia,Kuwait,Japan"
+    },
+    {
+        "country": "Hong Kong",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Hong_Kong",
+        "export_partners": "",
+        "import_partners": "Mainland China,Taiwan,Singapore"
+    },
+    {
+        "country": "Colombia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Colombia",
+        "export_partners": "United States,Panama,China",
+        "import_partners": "United States,China,Mexico,Brazil,Germany"
+    },
+    {
+        "country": "Chile",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Chile",
+        "export_partners": "China,United States,Japan,South Korea,Brazil",
+        "import_partners": "China,United States,Brazil,Argentina,Germany"
+    },
+    {
+        "country": "Romania",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_Romania",
+        "export_partners": "Germany,Italy,France,Hungary,Bulgaria,Poland,Turkey,Netherlands",
+        "import_partners": "Germany,Italy,Hungary,China,Poland,France,Turkey,Netherlands"
+    },
+    {
+        "country": "Czech Republic",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Czech_Republic",
+        "export_partners": "EU,Germany,Slovakia,Poland,France,United Kingdom,Italy,Austria",
+        "import_partners": "EU,Germany,Poland,China,Slovakia,Netherlands,Italy"
+    },
+    {
+        "country": "Iraq",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Iraq",
+        "export_partners": "China,India,European Union,South Korea,United States,Singapore,Turkey,Taiwan,United Arab Emirates",
+        "import_partners": "Iran,Turkey,China,European Union,India,South Korea,United States,Kuwait,Japan,Brazil"
+    },
+    {
+        "country": "Finland",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Finland",
+        "export_partners": "Germany,Sweden,Netherlands,United States,China,Russia,United Kingdom",
+        "import_partners": "Germany,Russia,Sweden,China,Netherlands,France"
+    },
+    {
+        "country": "Portugal",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Portugal",
+        "export_partners": "Spain,France,Germany,US,UK,Italy,Netherlands,Angola",
+        "import_partners": "Spain,Germany,France,China,Netherlands,Italy,Brazil,US"
+    },
+    {
+        "country": "New Zealand",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_New_Zealand",
+        "export_partners": "China,Australia,United States,European Union,Japan",
+        "import_partners": "European Union,Australia,China,United States,Japan"
+    },
+    {
+        "country": "Peru",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Peru",
+        "export_partners": "China,United States,India,South Korea,Japan",
+        "import_partners": "China,United States,Brazil,Mexico,Ecuador"
+    },
+    {
+        "country": "Kazakhstan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Kazakhstan",
+        "export_partners": "China,Italy,Russia,Netherlands,France,South Korea,Turkey,Switzerland,Canada,Uzbekistan",
+        "import_partners": "Russia,China,South Korea,Germany,Italy,Uzbekistan,United States,Turkey,Belarus,France"
+    },
+    {
+        "country": "Greece",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Greece",
+        "export_partners": "Italy,Germany,France,Cyprus,Bulgaria,Turkey,United States,United Kingdom,Romania,Spain",
+        "import_partners": "Germany,China,Italy,Netherlands,France,Russia,Ireland,Spain,Iraq,Bulgaria"
+    },
+    {
+        "country": "Qatar",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Qatar",
+        "export_partners": "Japan,South Korea,India,China,European Union,Singapore,Thailand,Taiwan,Pakistan,United Kingdom,United States",
+        "import_partners": "European Union,United States,United Kingdom,China,India,Turkey,Japan,Oman"
+    },
+    {
+        "country": "Ukraine",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Ukraine",
+        "export_partners": "Russia,China,Poland,Turkey,Germany,India,Italy,Netherlands,Egypt,Belarus",
+        "import_partners": "China,Germany,Russia,Poland,United States,Belarus,Turkey,Italy,France,Hungary"
+    },
+    {
+        "country": "Algeria",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Algeria",
+        "export_partners": "Italy,France,Spain,United States,United Kingdom,India,South Korea,Brazil,Tunisia,Netherlands",
+        "import_partners": "China,France,Italy,Spain,Germany,Turkey,Russia,Argentina,Brazil,Belgium"
+    },
+    {
+        "country": "Hungary",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Hungary",
+        "export_partners": "Germany,Romania,Italy,Austria,Slovakia,France,Czech Republic,Poland",
+        "import_partners": "Germany,Austria,China,Poland,Slovakia,Netherlands,Czech Republic,Italy,France"
+    },
+    {
+        "country": "Kuwait",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Kuwait",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Morocco",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Morocco",
+        "export_partners": "Spain,France,Italy,United States,Germany,India,Brazil,United Kingdom,Netherlands,Portugal",
+        "import_partners": "Spain,France,China,United States,Germany,Turkey,Italy,Russia,Saudi Arabia,Netherlands"
+    },
+    {
+        "country": "Angola",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Angola",
+        "export_partners": "China,India,United States",
+        "import_partners": "Portugal,China,United States,South Africa,Brazil,United Kingdom"
+    },
+    {
+        "country": "Puerto Rico",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Puerto_Rico",
+        "export_partners": "United States,Belgium,Netherlands,Italy,Spain",
+        "import_partners": "United States,Ireland,Singapore,Switzerland,South Korea"
+    },
+    {
+        "country": "Ecuador",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Ecuador",
+        "export_partners": "United States,Vietnam,Chile,Panama,Russia",
+        "import_partners": "United States,China,Colombia,Brazil,Panama"
+    },
+    {
+        "country": "Kenya",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Kenya",
+        "export_partners": "Uganda,Pakistan,United States,United Kingdom,Netherlands,Tanzania,Ethiopia",
+        "import_partners": "China,India,United Arab Emirates,Saudi Arabia,South Africa,Egypt"
+    },
+    {
+        "country": "Slovakia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Slovakia",
+        "export_partners": "Germany,Czech Republic,Poland,France,Italy,United Kingdom,Hungary,Austria",
+        "import_partners": "Germany,Czech Republic,Austria,Poland,Hungary,South Korea,Russia,France,China"
+    },
+    {
+        "country": "Dominican Republic",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Dominican_Republic",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Ethiopia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Ethiopia",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Oman",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Oman",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Cuba",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Cuba",
+        "export_partners": "Venezuela,Spain,Russia,Lebanon,Indonesia,Germany",
+        "import_partners": "China,Spain,Russia,Brazil,Mexico,Italy,United States"
+    },
+    {
+        "country": "Guatemala",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Guatemala",
+        "export_partners": "United States,El Salvador,Honduras,Nicaragua,Mexico",
+        "import_partners": "United States,China,Mexico,El Salvador"
+    },
+    {
+        "country": "Bulgaria",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Bulgaria",
+        "export_partners": "Germany,Romania,Italy,Turkey,Greece,France,China,Belgium,Netherlands,Poland",
+        "import_partners": "Germany,Turkey,Romania,Italy,Russian Federation,China,Greece,Hungary,Netherlands,Poland"
+    },
+    {
+        "country": "Luxembourg",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Luxembourg",
+        "export_partners": "Germany,Belgium,France,Netherlands,Italy,United Kingdom",
+        "import_partners": "Belgium,Germany,France,United States,Netherlands,China"
+    },
+    {
+        "country": "Venezuela",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Venezuela",
+        "export_partners": "United States,China,India,Singapore,Spain",
+        "import_partners": "United States,China,Mexico,Brazil,Colombia"
+    },
+    {
+        "country": "Belarus",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Belarus",
+        "export_partners": "Russia,Ukraine,Poland,Lithuania,Germany,United Kingdom,China,Kazakhstan,Netherlands",
+        "import_partners": "Russia,China,Poland,Germany,Ukraine,Lithuania,Turkey,Italy,Netherlands,United States"
+    },
+    {
+        "country": "Uzbekistan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Uzbekistan",
+        "export_partners": "Switzerland,United Kingdom,Russia,China,Kazakhstan,Turkey,Kyrgyzstan,Afghanistan,United Arab Emirates,Iran",
+        "import_partners": "China,Russia,South Korea,Kazakhstan,Turkey,Germany,United States,Turkmenistan,Italy,Lithuania"
+    },
+    {
+        "country": "Tanzania",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Tanzania",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Ghana",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Ghana",
+        "export_partners": "India,United Arab Emirates,China,Switzerland,Vietnam,Burkina Faso",
+        "import_partners": "China,United States,United Kingdom,Belgium,India"
+    },
+    {
+        "country": "Turkmenistan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Turkmenistan",
+        "export_partners": "China,Uzbekistan,Turkey,Azerbaijan,Romania,Russia,Georgia,Italy,Greece,Croatia",
+        "import_partners": "Turkey,Russia,China,United Arab Emirates,Germany,Kazakhstan,France,Netherlands,Georgia,Italy"
+    },
+    {
+        "country": "Sri Lanka",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Sri_Lanka",
+        "export_partners": "USA,UK,India,Germany,Italy",
+        "import_partners": "China,India,UAE,Malaysia,Singapore"
+    },
+    {
+        "country": "Uruguay",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Uruguay",
+        "export_partners": "China,Brazil,United States,Argentina",
+        "import_partners": "China,Brazil,Argentina,United States"
+    },
+    {
+        "country": "Panama",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Panama",
+        "export_partners": "United States,Netherlands,China,Costa Rica,India,Vietnam",
+        "import_partners": "United States,China,Mexico"
+    },
+    {
+        "country": "Azerbaijan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Azerbaijan",
+        "export_partners": "Italy,Turkey,Israel,India,Greece,Spain,Russia,Croatia,Czechia,United Kingdom",
+        "import_partners": "Russia,Turkey,China,Germany,Turkmenistan,United States of America,Iran,Italy,Japan,South Korea"
+    },
+    {
+        "country": "Croatia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Croatia",
+        "export_partners": "Slovenia,Italy,Germany,Hungary,Bosnia and Herzegovina",
+        "import_partners": "Germany,Italy,Slovenia,Hungary,Austria"
+    },
+    {
+        "country": "Ivory Coast",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Ivory_Coast",
+        "export_partners": "Netherlands,United States,France,Malaysia,Vietnam,Mali,Spain,Switzerland,Germany,Burkina Faso",
+        "import_partners": "China,Nigeria,France,USA,India"
+    },
+    {
+        "country": "Costa Rica",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_Costa_Rica",
+        "export_partners": "United States,Belgium,Panama,Netherlands,Nicaragua,Guatemala",
+        "import_partners": "United States,China,Mexico"
+    },
+    {
+        "country": "Lithuania",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Lithuania",
+        "export_partners": "Russia,Latvia,Poland,Germany,United States,Estonia,Sweden",
+        "import_partners": "Russia,Germany,Poland,Latvia,Italy,Netherlands,Sweden"
+    },
+    {
+        "country": "DR Congo",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Democratic_Republic_of_the_Congo",
+        "export_partners": "China,Zambia,Belgium,United Kingdom",
+        "import_partners": "South Africa,China,Belgium,Zambia,Zimbabwe,Kenya,France,Turkey"
+    },
+    {
+        "country": "Serbia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Serbia",
+        "export_partners": "EU,Bosnia and Herzegovina,Russia,China,Montenegro",
+        "import_partners": "EU,China,Russia,Turkey,Bosnia and Herzegovina"
+    },
+    {
+        "country": "Slovenia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Slovenia",
+        "export_partners": "Switzerland,Germany,Italy,Croatia,Austria,France",
+        "import_partners": "Switzerland,Germany,Italy,China,Austria,Croatia"
+    },
+    {
+        "country": "Myanmar",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Myanmar",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Uganda",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Uganda",
+        "export_partners": "Kenya,UAE,DR Congo,Rwanda,Tanzania",
+        "import_partners": "China,India,UAE,Kenya,Japan,Saudi Arabia,Indonesia,South Africa"
+    },
+    {
+        "country": "Jordan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Jordan",
+        "export_partners": "United States,Saudi Arabia,India,Iraq,United Arab Emirates,China",
+        "import_partners": "China,Saudi Arabia,United States,United Arab Emirates,Egypt,India"
+    },
+    {
+        "country": "Tunisia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Tunisia",
+        "export_partners": "France,Italy,Germany,Spain,Libya,United States,Algeria,United Kingdom,Netherlands,Belgium",
+        "import_partners": "France,Italy,Germany,China,Algeria,Turkey,Spain,Russia,United States,Belgium"
+    },
+    {
+        "country": "Cameroon",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Cameroon",
+        "export_partners": "Netherlands,France,China,Belgium,Italy,Algeria,Malaysia",
+        "import_partners": "China,France,Thailand,Nigeria"
+    },
+    {
+        "country": "Bahrain",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Bahrain",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Bolivia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Bolivia",
+        "export_partners": "Brazil,Argentina,United States,Japan,India,South Korea,Colombia,China,United Arab Emirates",
+        "import_partners": "China,Brazil,Argentina,United States,Peru"
+    },
+    {
+        "country": "Sudan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Sudan",
+        "export_partners": "UAE,Egypt,Oman,Germany,Indonesia,Turkey,South Korea,France",
+        "import_partners": "UAE,Egypt,Germany,Pakistan,Russia,Turkey,Japan,South Korea"
+    },
+    {
+        "country": "Paraguay",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Paraguay",
+        "export_partners": "Brazil,Argentina,Chile,Russia",
+        "import_partners": "Brazil,United States,China,Argentina,Chile"
+    },
+    {
+        "country": "Libya",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Libya",
+        "export_partners": "Italy,China,Germany,Spain,United Arab Emirates,France,United States,Austria,Greece,Turkey",
+        "import_partners": "China,Turkey,Italy,United Arab Emirates,Egypt,South Korea,Netherlands,Tunisia,Germany,Spain"
+    },
+    {
+        "country": "Latvia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/GDP_of_Latvia",
+        "export_partners": "Lithuania,Russia,Estonia,Germany,Sweden,United Kingdom,Poland,Denmark",
+        "import_partners": "Lithuania,Germany,Poland,Estonia,Russia,Netherlands,Finland,Italy"
+    },
+    {
+        "country": "Estonia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Estonia",
+        "export_partners": "Finland,Sweden,Latvia,Russia,Germany",
+        "import_partners": "Finland,Germany,Lithuania,Sweden,Russia"
+    },
+    {
+        "country": "Nepal",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Nepal",
+        "export_partners": "India,United States,Turkey",
+        "import_partners": "India,China"
+    },
+    {
+        "country": "Zimbabwe",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Zimbabwe",
+        "export_partners": "South Africa,Mozambique,United Arab Emirates,Zambia",
+        "import_partners": "South Africa,Zambia"
+    },
+    {
+        "country": "El Salvador",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_El_Salvador",
+        "export_partners": "United States,Guatemala,Honduras,Nicaragua",
+        "import_partners": "United States,China,Guatemala,Mexico,Colombia,European Union"
+    },
+    {
+        "country": "Papua New Guinea",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Papua_New_Guinea",
+        "export_partners": "Australia,China,Japan,Taiwan",
+        "import_partners": "Australia,China,Singapore,Malaysia"
+    },
+    {
+        "country": "Honduras",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Honduras",
+        "export_partners": "United States,Germany,Belgium,El Salvador,Netherlands,Guatemala,Nicaragua",
+        "import_partners": "United States,Guatemala,China,Mexico,El Salvador,Panama,Costa Rica"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Trinidad_and_Tobago",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Cambodia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Cambodia",
+        "export_partners": "United States,Singapore,Thailand,Germany,Japan,China,Canada,United Kingdom",
+        "import_partners": "China,Thailand,Vietnam,Singapore"
+    },
+    {
+        "country": "Iceland",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Iceland",
+        "export_partners": "Netherlands,Spain,United Kingdom,Germany,United States,France,Norway",
+        "import_partners": "Germany,Norway,China,Netherlands,United States,Denmark,United Kingdom,Sweden"
+    },
+    {
+        "country": "Yemen",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Yemen",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Senegal",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Senegal",
+        "export_partners": "Mali,Switzerland,India,Cote d'Ivoire,UAE,Gambia,Spain",
+        "import_partners": "France,China,Nigeria,India,Netherlands,Spain"
+    },
+    {
+        "country": "Zambia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Zambia",
+        "export_partners": "Switzerland,China,Namibia,DR Congo,Singapore",
+        "import_partners": "South Africa,China,United Arab Emirates,India"
+    },
+    {
+        "country": "Cyprus",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Cyprus",
+        "export_partners": "Libya,Greece,Norway,United Kingdom,Germany",
+        "import_partners": "Greece,Italy,China,South Korea,Germany,Netherlands,United Kingdom,Israel"
+    },
+    {
+        "country": "Georgia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Georgia_(country)",
+        "export_partners": "Azerbaijan,Russia,Armenia,Bulgaria,Ukraine,China,Turkey,Romania,United States,Israel",
+        "import_partners": "Turkey,Russia,China,United States,Azerbaijan,Germany,Ukraine,Armenia,Japan,Italy"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Bosnia_and_Herzegovina",
+        "export_partners": "EU,Serbia,Montenegro,Turkey,Switzerland",
+        "import_partners": "Serbia,China,Turkey,Russia"
+    },
+    {
+        "country": "Macau",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Macau",
+        "export_partners": "Hong Kong,China,Portugal",
+        "import_partners": "China,Italy,Hong Kong,France,Switzerland,Japan,United States"
+    },
+    {
+        "country": "Gabon",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Gabon",
+        "export_partners": "United States,China,France,Thailand,Indonesia",
+        "import_partners": "France,Cameroon,Belgium,China,United States,Netherlands"
+    },
+    {
+        "country": "Haiti",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Haiti",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Afghanistan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Afghanistan",
+        "export_partners": "United Arab Emirates,Pakistan,India,United States,China,Turkey,Germany,Denmark,Saudi Arabia,Jordan",
+        "import_partners": "Iran,Pakistan,India,China,United States,Uzbekistan,Kazakhstan,Turkey,Russia,Malaysia"
+    },
+    {
+        "country": "Guinea",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Guinea",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Palestine",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_State_of_Palestine",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Brunei",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Brunei",
+        "export_partners": "Japan,South Korea,Thailand,Malaysia,Pakistan,Singapore,Switzerland,China",
+        "import_partners": "China,Singapore,Italy,United States,Germany,Japan,United Kingdom"
+    },
+    {
+        "country": "Mali",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Mali",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Burkina Faso",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Burkina_Faso",
+        "export_partners": "Benin,Togo,Japan,Thailand,Turkey,Côte d'Ivoire,Ghana",
+        "import_partners": "Côte d'Ivoire,Pakistan,Ghana,India,China,Togo"
+    },
+    {
+        "country": "Albania",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Albania",
+        "export_partners": "Italy,Spain,Germany,Greece,France,China,North Macedonia,India,United States,Czechia",
+        "import_partners": "Italy,Greece,China,Turkey,Germany,Serbia,Spain,Romania,Russia,Hungary"
+    },
+    {
+        "country": "Lebanon",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Lebanon",
+        "export_partners": "United Arab Emirates,China,Greece,Saudi Arabia,Syria,South Africa,Iraq",
+        "import_partners": "United Arab Emirates,China,Italy,Greece,Turkey,United States,Germany"
+    },
+    {
+        "country": "Botswana",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Botswana",
+        "export_partners": "Belgium,India,United Arab Emirates,South Africa,Singapore,Israel,Hong Kong,Namibia",
+        "import_partners": "South Africa,Canada,Israel"
+    },
+    {
+        "country": "Mozambique",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Mozambique",
+        "export_partners": "South Africa,Italy,China,Belgium,Spain,Egypt",
+        "import_partners": "South Africa,India,China,Portugal,Australia"
+    },
+    {
+        "country": "Armenia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Armenia",
+        "export_partners": "European Union,Russia,Switzerland,China,Iraq,Serbia,Canada,Iran",
+        "import_partners": "Russia,European Union,China,Iran,Turkey,Georgia,Ukraine,India"
+    },
+    {
+        "country": "Benin",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Benin",
+        "export_partners": "Bangladesh,India,Vietnam,China,Nigeria,Denmark,Egypt,Niger",
+        "import_partners": "India,China,Togo,France,Thailand,Belgium,UAE,Morocco"
+    },
+    {
+        "country": "Malta",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Malta",
+        "export_partners": "Germany,France,Italy,Japan,Singapore,United States,Spain,Hong Kong,China,Libya",
+        "import_partners": "Russia,Italy,United Kingdom,Germany,Turkey,France,China,Greece,Spain,Netherlands"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Equatorial_Guinea",
+        "export_partners": "France,China,United States,Spain,Netherlands,Belgium,India",
+        "import_partners": "Spain,China,United States,France,Cameroon,Italy,Brazil"
+    },
+    {
+        "country": "Laos",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Laos",
+        "export_partners": "Thailand,China,Vietnam,India",
+        "import_partners": "Thailand,China,Vietnam"
+    },
+    {
+        "country": "Jamaica",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Jamaica",
+        "export_partners": "United States,Netherlands,Canada",
+        "import_partners": "United States,Colombia,Japan,China,Trinidad and Tobago"
+    },
+    {
+        "country": "North Korea",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_North_Korea",
+        "export_partners": "China",
+        "import_partners": "China"
+    },
+    {
+        "country": "Mongolia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Mongolia",
+        "export_partners": "China,Switzerland,Singapore",
+        "import_partners": "China,Russia,Japan,United States,South Korea"
+    },
+    {
+        "country": "Nicaragua",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Nicaragua",
+        "export_partners": "United States,El Salvador,Venezuela,Costa Rica,Canada,Mexico",
+        "import_partners": "United States,China,Mexico,Costa Rica,Guatemala,El Salvador"
+    },
+    {
+        "country": "Syria",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Syria",
+        "export_partners": "Turkey,Saudi Arabia,Lebanon,Egypt,UAE,Jordan,Kuwait,Serbia",
+        "import_partners": "Turkey,China,UAE,Iran,Egypt,India,Lebanon,Argentina,Jordan"
+    },
+    {
+        "country": "Madagascar",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Madagascar",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Guyana",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Guyana",
+        "export_partners": "United States,Singapore,UAE,United Kingdom,Canada,citation needed",
+        "import_partners": "Singapore,United States,Trinidad and Tobago,China,Japan,citation needed"
+    },
+    {
+        "country": "Niger",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Niger",
+        "export_partners": "France,Thailand,Malaysia,Nigeria,Mali,China",
+        "import_partners": "France,China,US,Nigeria,Thailand"
+    },
+    {
+        "country": "Congo",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_the_Congo",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "North Macedonia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_North_Macedonia",
+        "export_partners": "Germany,Serbia,Bulgaria,Czechia,Greece,Hungary,China,Belgium,Italy,United Kingdom",
+        "import_partners": "United Kingdom,Germany,Serbia,Greece,China,Bulgaria,Turkey,Hungary,Italy,Romania"
+    },
+    {
+        "country": "Moldova",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Moldova",
+        "export_partners": "Romania,Russia,Germany,Italy,Turkey,Poland,Ukraine,Czechia,Switzerland,Belarus",
+        "import_partners": "Romania,Ukraine,China,Russia,Germany,Turkey,Italy,Poland,Belarus,Czechia"
+    },
+    {
+        "country": "Chad",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Chad",
+        "export_partners": "United States,India,Japan,China",
+        "import_partners": "France,China,Cameroon,United States,India,Belgium,Italy"
+    },
+    {
+        "country": "Bahamas",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_The_Bahamas",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Namibia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Namibia",
+        "export_partners": "South Africa,Botswana,Switzerland,Zambia,China,Italy",
+        "import_partners": ""
+    },
+    {
+        "country": "Rwanda",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Rwanda",
+        "export_partners": "UAE,Kenya,Switzerland,Democratic Republic of the Congo,US,Singapore",
+        "import_partners": "China,Uganda,India,Kenya,Tanzania,UAE"
+    },
+    {
+        "country": "Malawi",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Malawi",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Mauritius",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Mauritius",
+        "export_partners": "European Union,United States,United Kingdom,South Africa,Madagascar",
+        "import_partners": "India,China,France,South Africa"
+    },
+    {
+        "country": "Mauritania",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Mauritania",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Tajikistan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Tajikistan",
+        "export_partners": "Turkey,Switzerland,Uzbekistan,Kazakhstan,China,Russia,Mongolia,Italy,France,Kyrgyzstan",
+        "import_partners": "China,Russia,Kazakhstan,Uzbekistan,Turkey,United Arab Emirates,Kyrgyzstan,Lithuania,Italy,Germany"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Kyrgyzstan",
+        "export_partners": "United Kingdom,Kazakhstan,Russia,Uzbekistan,Turkey,China,Tajikistan,Lithuania,Belarus,Iran",
+        "import_partners": "China,Russia,Kazakhstan,Uzbekistan,Turkey,United Arab Emirates,South Korea,Lithuania,Germany,United States"
+    },
+    {
+        "country": "New Caledonia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_New_Caledonia",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Kosovo",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Kosovo",
+        "export_partners": "EU,Albania,USA,Serbia,North Macedonia",
+        "import_partners": "EU,Turkey,China,Serbia,Albania"
+    },
+    {
+        "country": "Somalia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Somalia",
+        "export_partners": "Ethiopia,France,Kenya,UAE,Yemen",
+        "import_partners": "Ethiopia,Sudan,Indonesia,Russia,Turkey"
+    },
+    {
+        "country": "Togo",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Togo",
+        "export_partners": "Benin,Burkina Faso,India,Mali,Niger,Côte d’Ivoire,Ghana,Nigeria",
+        "import_partners": "China,Belgium,Netherlands,France,India,Singapore"
+    },
+    {
+        "country": "Bermuda",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Bermuda",
+        "import_partners": "",
+        "export_partners": ""
+    },
+    {
+        "country": "Liechtenstein",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Liechtenstein",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Monaco",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Monaco",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Cayman Islands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Cayman_Islands",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Montenegro",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Montenegro",
+        "export_partners": "Serbia,Hungary,China,Russia,Bosnia and Herzegovina,Germany,Italy,Poland,Belgium,Slovenia",
+        "import_partners": "Serbia,Bosnia and Herzegovina,Croatia,Italy,Greece,Germany,Turkey,Slovenia,China,Hungary"
+    },
+    {
+        "country": "Maldives",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Maldives",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Guam",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Guam",
+        "import_partners": "",
+        "export_partners": ""
+    },
+    {
+        "country": "Barbados",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Barbados",
+        "export_partners": "United States,Trinidad and Tobago,Guyana,Jamaica,China,St. Lucia,the Bahamas",
+        "import_partners": "United States,Trinidad and Tobago,United Kingdom,China,Canada"
+    },
+    {
+        "country": "French Polynesia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_French_Polynesia",
+        "export_partners": "Japan,Hong Kong,Kyrgyzstan,United States,France",
+        "import_partners": "France,United States,China,New Zealand,Singapore"
+    },
+    {
+        "country": "Fiji",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Fiji",
+        "export_partners": "United States,Australia,New Zealand,Tonga,Vanuatu,China,Spain,United Kingdom,Kiribati",
+        "import_partners": "Australia,New Zealand,Singapore,China"
+    },
+    {
+        "country": "South Sudan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_South_Sudan",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Eswatini",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Eswatini",
+        "export_partners": "South Africa,EU,US,Mozambique",
+        "import_partners": "South Africa,EU,Japan,Singapore"
+    },
+    {
+        "country": "Sierra Leone",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Sierra_Leone",
+        "export_partners": "China,Belgium,Japan,Turkey,Netherlands,Indonesia",
+        "import_partners": "China,India,South Africa,United States,United Kingdom,Côte d'Ivoire,Belgium"
+    },
+    {
+        "country": "Liberia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Liberia",
+        "export_partners": "Germany,Switzerland,United Arab Emirates,United States,Indonesia",
+        "import_partners": "Singapore,China,South Korea,Japan"
+    },
+    {
+        "country": "Djibouti",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Djibouti",
+        "export_partners": "Ethiopia,Somalia,Qatar,Brazil,Yemen,United States",
+        "import_partners": "China,Saudi Arabia,India,Indonesia,Oman"
+    },
+    {
+        "country": "Burundi",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Burundi",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Aruba",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Aruba",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Andorra",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Andorra",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Greenland",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Greenland",
+        "export_partners": "Denmark,Iceland",
+        "import_partners": "Denmark,Sweden"
+    },
+    {
+        "country": "Suriname",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Suriname",
+        "export_partners": "Switzerland,Hong Kong,United Arab Emirates,Belgium,Guyana,United States,China,India,Netherlands,Singapore",
+        "import_partners": "China,Germany,United States,Japan,South Korea,France,Netherlands,Italy,United Kingdom,Mexico"
+    },
+    {
+        "country": "Bhutan",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Bhutan",
+        "export_partners": "India,Bangladesh,Hong Kong,China,Nepal",
+        "import_partners": "India,China,Japan,South Korea,Thailand,Singapore"
+    },
+    {
+        "country": "Belize",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Belize",
+        "export_partners": "United Kingdom,United States,Nigeria,Trinidad and Tobago,Jamaica,Bahamas",
+        "import_partners": "United States,Mexico,Cuba,Guatemala,China,Trinidad and Tobago,Indonesia"
+    },
+    {
+        "country": "Lesotho",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Lesotho",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Curaçao",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Cura%C3%A7ao",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Central African Republic",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Central_African_Republic",
+        "export_partners": "France,Burundi,China,Cameroon,Austria",
+        "import_partners": "France,United States,India,China,South Africa,Japan,Italy,Cameroon,Netherlands"
+    },
+    {
+        "country": "East Timor",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_East_Timor",
+        "export_partners": "Singapore,China,Japan,Indonesia,Australia",
+        "import_partners": "Indonesia,China,Singapore,Malaysia,Thailand"
+    },
+    {
+        "country": "Eritrea",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Eritrea",
+        "export_partners": "Italy,Sudan,Saudi Arabia,China,UK,Egypt",
+        "import_partners": "Saudi Arabia,Egypt,China,India,Russia,South Africa,Brazil,South Korea"
+    },
+    {
+        "country": "Gambia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_The_Gambia",
+        "export_partners": "China,India,Mali,Chile",
+        "import_partners": "China,India,Senegal,Brazil"
+    },
+    {
+        "country": "Cape Verde",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Cape_Verde",
+        "export_partners": "Spain,Portugal,Italy",
+        "import_partners": "Portugal,Netherlands,Spain,China"
+    },
+    {
+        "country": "Seychelles",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Seychelles",
+        "export_partners": "United Arab Emirates,France,United Kingdom,Italy,Germany",
+        "import_partners": "United Arab Emirates,France,Spain,South Africa"
+    },
+    {
+        "country": "Saint Lucia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Saint_Lucia",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Zanzibar",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Zanzibar",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Antigua_and_Barbuda",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Guinea-Bissau",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Guinea-Bissau",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "San Marino",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_San_Marino",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Solomon Islands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Solomon_Islands",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "British Virgin Islands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_British_Virgin_Islands",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Comoros",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Comoros",
+        "export_partners": "India,Singapore,France,Netherlands,Turkey,United States,Saudi Arabia,Germany",
+        "import_partners": "France,Pakistan,HKG,PR of China,United Arab Emirates,Republic of India,East African Community"
+    },
+    {
+        "country": "Grenada",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Grenada",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Northern_Mariana_Islands",
+        "import_partners": "",
+        "export_partners": ""
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Saint_Kitts_and_Nevis",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Vanuatu",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Vanuatu",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Saint_Vincent_and_the_Grenadines",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Sint Maarten",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Sint_Maarten",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Samoa",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Samoa",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "American Samoa",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_American_Samoa",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Dominica",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Dominica",
+        "export_partners": "Saudi Arabia,Qatar",
+        "import_partners": "United States,Nigeria,China,Italy"
+    },
+    {
+        "country": "São Tomé and Príncipe",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Tonga",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Tonga",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Micronesia",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Federated_States_of_Micronesia",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Cook Islands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Cook_Islands",
+        "import_partners": "",
+        "export_partners": ""
+    },
+    {
+        "country": "Marshall Islands",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_the_Marshall_Islands",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Anguilla",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Anguilla",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Palau",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Palau",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Kiribati",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Kiribati",
+        "export_partners": "",
+        "import_partners": ""
+    },
+    {
+        "country": "Nauru",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Nauru",
+        "export_partners": "Thailand,Australia,United States,South Korea,Philippines,Japan,France",
+        "import_partners": "Taiwan,Australia"
+    },
+    {
+        "country": "Montserrat",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Montserrat",
+        "import_partners": "",
+        "export_partners": ""
+    },
+    {
+        "country": "Tuvalu",
+        "wikipedia_page": "https://en.wikipedia.org/wiki/Economy_of_Tuvalu",
+        "export_partners": "",
+        "import_partners": ""
+    }
+]
