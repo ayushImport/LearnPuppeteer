@@ -35,16 +35,16 @@ const economicalPartners = async () => {
             if (isInfoTableAvailable) {
                 let exportPartnersNode = getElementsByXPath(`//*[contains(text(),'Main export partner')]//parent::th//following-sibling::td//div//li//a[@title]`)
                 let importPartnerNode = getElementsByXPath(`//*[contains(text(),'Main import partner')]//parent::th//following-sibling::td//div//li//a[@title]`)
-                let exportPartner = "";
-                let importPartner = "";
+                let exportPartner = [];
+                let importPartner = [];
                 for (partner of exportPartnersNode) {
-                    exportPartner += exportPartner.innerText ? exportPartner.innerText : ''
+                    exportPartner.push(partner.innerText ? partner.innerText : '')
                 }
                 for (partner of importPartnerNode) {
-                    importPartner += importPartner.innerText ? importPartner.innerText : ''
+                    importPartner.push(partner.innerText ? push.innerText : '')
                 }
-                requiredData.export_partners = exportPartner;
-                requiredData.import_partners = importPartner;
+                requiredData.export_partners = exportPartner.join(',');
+                requiredData.import_partners = importPartner.join(',');
             }
             return requiredData
             function getElementsByXPath(xpath, parent) {
