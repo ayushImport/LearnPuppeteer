@@ -51,6 +51,26 @@ const economicalPartners = async () => {
         finalData.push(eachCountryData)
     }
 
+    let listOfKeys = async (data) => listOfKeys = Object.keys(data);
+    let keys = (await listOfKeys(finalData[0])).join(',')
+
+
+    fs.writeFile('./../partnerData.csv', keys, (err) => {
+        if (err) console.log(err)
+        else console.log('Creating CSV file\nWritten Keys successfully from first data Obj!!\n')
+    })
+
+    for (data of finalData) {
+        let dataToAppend = ''
+        for (key of keys) {
+            dataToAppend += `"${data[key]}"`
+        }
+        fs.appendFile('./../partnerData.csv', dataToAppend, (err) => {
+            if (err) console.log(err)
+        })
+    }
+    console.log(`Added ${finalData.length} rows successfully`)
+
     function getElementsByXPath(xpath, parent) {
         let results = [];
         let query = document.evaluate(xpath, parent || document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null); for (let i = 0, length = query.snapshotLength; i < length; ++i) {
